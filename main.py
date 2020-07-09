@@ -52,7 +52,6 @@ class Posts(db.Model):
 
 @app.route("/")
 def home():
-    # flash("This is Bhagirath Deshani" , "info")
     posts = Posts.query.filter_by().all()
     last = math.ceil(len(posts)/int(params['no_of_posts']))
 

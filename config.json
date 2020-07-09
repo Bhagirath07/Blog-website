@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server" : "True",
+    "local_uri" : "mysql://root:@localhost/codingfactor",
+    "prod_uri" : "mysql://root:@localhost/codingfactor",
+    "fb_url" : "https://facebook.com/thecodingfactor",
+    "twtr_url" : "https://twitter.com/codingfactor",
+    "git_url" : "https://github.com/codingfactor",
+    "insta_url" : "https://instagram.com/codingfactor_07",
+    "linkedin_url" : "https://linkedin.com/thecodingfactor",
+    "blog_name" : "Coding Factor",
+    "tag_block" : "Heaven For Programmer",
+    "gmail-user" : "thecodingfactor07@gmail.com",
+    "gmail-pwd" : "TCF#BTh07_3757",
+    "about_txt" : "This is BhagiraTh Deshani. iOS Developer,Android Developer,Web Developer. ",
+    "no_of_posts" : 3,
+    "login_img" : "Login.jpg",
+    "admin-user" : "Mikhail",
+    "admin-pwd" : "BhagiraTh#07",
+    "upload_location" : "C:\\Users\\bhagi\\PycharmProjects\\webflask\\static"
+  }
+}

@@ -1,3 +1,11 @@
+"""
+Created on Fri July 03 2020
+@author: BhagiraTh Desani
+@discription: Provide you to Information about programming languages as well as latest news about New Technologies on this Blog Website by Admin.
+              
+
+"""
+
 from flask import Flask, render_template, request , session , redirect , flash
 from flask_sqlalchemy import SQLAlchemy
 from flask_mail import Mail
